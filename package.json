@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
